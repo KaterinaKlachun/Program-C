@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\kater\Рабочий стол\Программирование на С Select CMakeLists.txt
